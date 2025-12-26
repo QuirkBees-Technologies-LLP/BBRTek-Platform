@@ -3,7 +3,7 @@
 import React from 'react';
 // Make sure to place your images in the specified folder
 import logo from '../../../public/media/app/logo.png'
-import bgImage from '../../../public/media/images/1920x1080/bg-img.png';
+import bgImage from '../../../public/media/images/1920x1080/banner-1.png';
 
 const Support = () => {
     return (

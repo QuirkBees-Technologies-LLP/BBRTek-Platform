@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../../../public/media/app/default-logo.png';
-import bgImage from '../../../public/media/images/1920x1080/bg-img.png';
+import bgImage from '../../../public/media/images/1920x1080/banner-1.png';
 
 const TermsOfService = () => {
     return (

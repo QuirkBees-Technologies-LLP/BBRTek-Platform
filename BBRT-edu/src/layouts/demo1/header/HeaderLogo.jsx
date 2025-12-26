@@ -19,7 +19,7 @@ const HeaderLogo = () => {
         <img src={toAbsoluteUrl('/media/app/mini-logo.png')} className="max-h-[25px] w-[25px]" alt="mini-logo" />
       </Link>
       <Link to="/" className="shrink-0 hidden dark:block">
-        <img src={toAbsoluteUrl('/media/app/mini-logo-dark.png')} className="max-h-[25px] w-[25px]" alt="mini-logo" />
+        <img src={toAbsoluteUrl('/media/app/mini-logo.png')} className="max-h-[25px] w-[25px]" alt="mini-logo" />
       </Link>
 
       <div className="flex items-center">

@@ -77,7 +77,7 @@ const Login = () => {
         <div className="flex justify-center mb-5">
           <img
             src="/media/app/logo.png"
-            className="w-100 h-16"
+            className="w-100 h-10"
             alt=""
           />
           {/* <img src="/media/app/default-logo-dark.png" className="w-100 h-5 dark_mode" alt="" /> */}

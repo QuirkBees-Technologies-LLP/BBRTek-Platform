@@ -28,7 +28,7 @@ const Layout = () => {
             pointer-events: none; 
           }
           .dark .branded-bg {
-            background-image: url('${toAbsoluteUrl('/media/images/2600x1600/bg-dark.png')}');
+            background-image: url('${toAbsoluteUrl('/media/images/2600x1600/banner-1.png')}');
           }
       `}
     </style>
